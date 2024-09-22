@@ -1,2 +1,1 @@
-# TRUE-Loei
-ทรูมันนี้วอเล็ตร้านค้า กองทุนกู้
+google-site-verification=Nv5fLFMXcM7q_Onfsr_7BoVRKJd8po3tS_J45C1i36s
