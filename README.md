@@ -1,1 +1,1 @@
-google-site-verification=Nv5fLFMXcM7q_Onfsr_7BoVRKJd8po3tS_J45C1i36s
+google-site-verification=Nv5fLFMXcM7q_Onfsr_7BoVRKJd8po3tS_J45C1i36shttps://www.bora.dopa.go.th
