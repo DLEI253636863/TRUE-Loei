@@ -12,3 +12,5 @@ google-site-verification=Nv5fLFMXcM7q_Onfsr_7BoVRKJd8po3tS_J45C1i36shttps://info
 <atom:link href="https://sourceforge.net/p/xampp/code/feed" rel="self" type="application/rss+xml"/>play.google.com
 </channel>play.google.com
 </rss>
+
+https://notebook.zohopublic.com/public/notes/hfbcw5bdb262ad50d4931ae559c11466dd34f
